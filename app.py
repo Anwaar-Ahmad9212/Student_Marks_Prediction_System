@@ -478,7 +478,7 @@ elif page == "Contact":
             <div class="stat-header">
                 <span class="stat-label">Email</span>
             </div>
-            <div class="stat-value" style="font-size: 16px;">f230540@cfd.nu.edu.pk</div>
+            <div class="stat-value" style="font-size: 16px;">example.com</div>
         </div>
         """, unsafe_allow_html=True)
     
@@ -501,6 +501,6 @@ elif page == "Contact":
             <div class="stat-header">
                 <span class="stat-label">Email</span>
             </div>
-            <div class="stat-value" style="font-size: 16px;">f230650@cfd.nu.edu.pk</div>
+            <div class="stat-value" style="font-size: 16px;">example.com</div>
         </div>
         """, unsafe_allow_html=True)
