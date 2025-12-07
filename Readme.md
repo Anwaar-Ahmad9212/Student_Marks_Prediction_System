@@ -109,3 +109,5 @@ streamlit run app.py
 * Works best with **small-to-medium datasets**; larger datasets may need optimization.
 
 ---
+https://studentpredictionsystem-ykucqnyvx2kzbfhjkfqjkp.streamlit.app/
+---
