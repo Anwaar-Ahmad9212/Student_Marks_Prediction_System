@@ -6,6 +6,12 @@
 A **Streamlit-based academic forecasting system** that predicts student grades using pre-trained regression models. The dashboard provides analytics, predictions, and insights into student performance.
 
 ---
+## **Live Website**
+
+You can access the deployed app here:
+
+https://studentpredictionsystem-ykucqnyvx2kzbfhjkfqjkp.streamlit.app/
+---
 
 ## **Features**
 
@@ -108,10 +114,4 @@ streamlit run app.py
 * Pre-trained models must match the features defined in `MODEL_FEATURES`.
 * Works best with **small-to-medium datasets**; larger datasets may need optimization.
 
----
-## **Live Website**
-
-You can access the deployed app here:
-
-https://studentpredictionsystem-ykucqnyvx2kzbfhjkfqjkp.streamlit.app/
 ---
